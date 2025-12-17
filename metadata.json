@@ -1,0 +1,5 @@
+{
+  "name": "SVG to ASCII Art Generator",
+  "description": "Converts SVG code or image files into styled ASCII art SVGs where font size reacts to opacity and brightness.",
+  "requestFramePermissions": []
+}
